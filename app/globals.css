@@ -161,11 +161,10 @@ h2 {
   border-radius:2px;
   transition: all ease .3s;
   font-size:16px;
-  font-weight:600;
   color:var(--muted);
   margin: 0;
-
-
+  text-decoration: none;
+  text-align: center;
 }
 .cta:hover {
   border-color: #fff !important;

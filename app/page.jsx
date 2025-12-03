@@ -34,7 +34,7 @@ export default function Page(){
 
       <div className="header">
 
-        <div className="logo">
+        <div className="logo" styles="margin-top: -4px;">
           
           <Image
             src="/nothese-logo-w.svg"
@@ -58,7 +58,7 @@ export default function Page(){
 
         <div className="footer">
           <h3>edição única e limitada</h3>
-          <button className="cta">fila de espera</button>
+          <a className="cta" href="https://chat.whatsapp.com/B5538Db5XQO5JoTtLFhAOM?mode=hqrt2&fbclid=PAb21jcAOdlD1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaeIE_UuERFUOGJtvISOwPDmVbvNz3756QjBhmce6lRvRlTjm5Rdw8eNh9Z27Q_aem_yiUhNdScnHqzRnXUBW-X5A" target="_blank">entrar na fila de espera</a>
         </div>
       </div>
     </main>
