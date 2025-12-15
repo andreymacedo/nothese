@@ -6,7 +6,7 @@ import Image from "next/image";
 
 
 export default function Page(){
-  const target = new Date(2025, 11, 15, 0,0,0);
+  const target = new Date(2025, 11, 31, 0,0,0);
 
   return (
     <main className="main">
@@ -57,7 +57,7 @@ export default function Page(){
         <Countdown targetDate={target} />
 
         <div className="footer">
-          <h3>edição única e limitada</h3>
+          <h3>verão 2026</h3>
           <a className="cta" href="https://chat.whatsapp.com/B5538Db5XQO5JoTtLFhAOM?mode=hqrt2&fbclid=PAb21jcAOdlD1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaeIE_UuERFUOGJtvISOwPDmVbvNz3756QjBhmce6lRvRlTjm5Rdw8eNh9Z27Q_aem_yiUhNdScnHqzRnXUBW-X5A" target="_blank">entrar na fila de espera</a>
         </div>
       </div>
