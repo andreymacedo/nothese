@@ -57,8 +57,8 @@ export default function Page(){
         <Countdown targetDate={target} />
 
         <div className="footer">
-          <h3>verão 2026</h3>
-          <a className="cta" href="https://chat.whatsapp.com/B5538Db5XQO5JoTtLFhAOM?mode=hqrt2&fbclid=PAb21jcAOdlD1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaeIE_UuERFUOGJtvISOwPDmVbvNz3756QjBhmce6lRvRlTjm5Rdw8eNh9Z27Q_aem_yiUhNdScnHqzRnXUBW-X5A" target="_blank">entrar na fila de espera</a>
+          <h3>verão 2025</h3>
+          <a className="cta" href="https://chat.whatsapp.com/B5538Db5XQO5JoTtLFhAOM?mode=hqrt2&fbclid=PAb21jcAOdlD1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaeIE_UuERFUOGJtvISOwPDmVbvNz3756QjBhmce6lRvRlTjm5Rdw8eNh9Z27Q_aem_yiUhNdScnHqzRnXUBW-X5A" target="_blank">faça parte do grupo</a>
         </div>
       </div>
     </main>
