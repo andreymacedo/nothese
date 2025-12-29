@@ -6,7 +6,7 @@ import Image from "next/image";
 
 
 export default function Page(){
-  const target = new Date(2025, 12, 31, 0,0,0);
+  const target = new Date(2025, 11, 31, 0,0,0);
 
   return (
     <main className="main">
